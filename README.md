@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](relative%20path/to/card.jpg?raw=true "Title")
+![Alt text](screenshot-card.png "Title")
 
 
 ### Links
