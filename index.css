@@ -10,7 +10,12 @@ body {
   border-radius: 20px;
   width: 350px;
   padding: 20px;
-  box-shadow: 8px 8px;
+  box-shadow: 4px 4px;
+}
+
+.container:hover {
+    box-shadow: 7px 7px;
+    transition: 200ms ease-out;
 }
 
 .bod {
@@ -43,6 +48,11 @@ h5 {
     font-weight: 800;
 }
 
+.bold:hover {
+        color: hsl(47, 88%, 63%);
+        transition: 200ms ease-out;
+        cursor: pointer;
+}
 
 p {
     font-size: 16px;
